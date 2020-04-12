@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="kursach.Crypter" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAgAGAAAAACACEAEAgAAAACAAAAAEAAIAAACA=</HashCode>
+      <FileName>Crypter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.Enums" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.DataModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAABABCAQAAAAAAAAQAAAAEAA=</HashCode>
+      <FileName>Model\DataModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="kursach.LoginModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAiAAAAAAAAAEAAAABAEAAAAAAAAAAEQAAAAEAA=</HashCode>
+      <FileName>Model\LoginModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="kursach.MainModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAABABCAQAAAAAAAAQAAAAEAA=</HashCode>
+      <FileName>Model\MainModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="kursach.PassContainer" Collapsed="true">
+    <Position X="11.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>PassContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.PgSql" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgAAAAgIAEAAIwAExABAAAAAAAQAEAgQAAEAAAAEAA=</HashCode>
+      <FileName>PgSql.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.StringHelper" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAABAAAAgAAAAAIAAAAAAAAAAAAABgAAAAA=</HashCode>
+      <FileName>StringHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="kursach.IDataModel" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\IDataModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="kursach.ILoginModel" Collapsed="true">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ILoginModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="kursach.IMainModel" Collapsed="true">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\IMainModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="kursach.CurrentTable" Collapsed="true">
+    <Position X="11.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAACAAAAAACAAAAAAAAAAIAQEAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
