@@ -1,0 +1,64 @@
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\bin\Debug\kursach.exe.config
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\bin\Debug\kursach.exe
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\bin\Debug\kursach.pdb
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.csprojResolveAssemblyReference.cache
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.Properties.Resources.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.csproj.GenerateResource.Cache
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.csproj.CoreCompileInputs.cache
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.exe
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.pdb
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.LoginForm.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\bin\Debug\Npgsql.xml
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.MainForm.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.ClientAction.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.DepartmentAction.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.EmployeeAction.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.DepartmentFilter.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.ClientFilter.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.RegisterForm.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.AdminPanel.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.EmployeeFilter.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.ContractAction.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.ContractFilter.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.MeetingPlaceAction.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.MeetingAction.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.MeetingFilter.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.PareAction.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.GetPare.resources
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\bin\Debug\Core.dll
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\bin\Debug\Core.pdb
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\kursach\obj\Debug\kursach.ContractsReport.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\bin\Debug\kursach.exe.config
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\bin\Debug\kursach.exe
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\bin\Debug\kursach.pdb
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\bin\Debug\Core.dll
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\bin\Debug\Core.pdb
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\bin\Debug\Npgsql.xml
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.csprojAssemblyReference.cache
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.EmployeeAction.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.DepartmentAction.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.ClientAction.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.ContractAction.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.MeetingFilter.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.ContractFilter.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.EmployeeFilter.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.ClientFilter.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.DepartmentFilter.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.AdminPanel.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.LoginForm.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.MainForm.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.RegisterForm.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.MeetingAction.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.MeetingPlaceAction.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.PareAction.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.GetPare.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.ContractsReport.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.Properties.Resources.resources
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.csproj.GenerateResource.cache
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.csproj.CopyComplete
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.exe
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\kursach\obj\Debug\kursach.pdb

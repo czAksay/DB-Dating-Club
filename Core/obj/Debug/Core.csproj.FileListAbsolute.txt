@@ -1,0 +1,16 @@
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\Core\bin\Debug\Core.dll
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\Core\bin\Debug\Core.pdb
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\Core\obj\Debug\Core.dll
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\Core\obj\Debug\Core.pdb
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\Core\bin\Debug\Npgsql.dll
+C:\Users\HobaY\Documents\Visual Studio 2017\Projects\kursach\Core\bin\Debug\Npgsql.xml
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\Core\bin\Debug\Core.dll
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\Core\bin\Debug\Core.pdb
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\Core\bin\Debug\Npgsql.dll
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\Core\bin\Debug\Npgsql.xml
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\Core\obj\Debug\Core.dll
+C:\Users\HobaY\Desktop\Проекты\Projects 2017\Projects\kursach\Core\obj\Debug\Core.pdb
